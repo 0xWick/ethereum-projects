@@ -1,0 +1,55 @@
+{
+  "name": "Top Arbitrum ERC-20 Tokens",
+  "logoURI": "https://cryptologos.cc/logos/arbitrum-arb-logo.png",
+  "keywords": ["arbitrum", "erc20", "token", "layer2"],
+  "timestamp": "2024-06-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+    {
+      "chainId": 42161,
+      "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 42161,
+      "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfc5a1a6eb076a2c7a205b5fc4c67e46e2dbf3a57",
+      "name": "GMX",
+      "symbol": "GMX",
+      "decimals": 18
+    }
+  ]
+}

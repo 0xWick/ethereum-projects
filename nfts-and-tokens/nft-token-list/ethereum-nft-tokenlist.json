@@ -1,0 +1,133 @@
+{
+  "name": "Top Ethereum NFTs",
+  "logoURI": "https://ethereum.org/static/6c5f726ad8b0b9ab16e355f881b4d397/31987/eth-diamond-purple.webp",
+  "keywords": ["nft", "erc721", "top", "ethereum"],
+  "timestamp": "2024-06-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "name": "Bored Ape Yacht Club",
+      "symbol": "BAYC"
+    },
+    {
+      "chainId": 1,
+      "address": "0xed5af388653567af2f388e6224dc7c4b3241c544",
+      "name": "Azuki",
+      "symbol": "AZUKI"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+      "name": "CryptoPunks",
+      "symbol": "PUNK"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
+      "name": "Decentraland",
+      "symbol": "LAND"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270",
+      "name": "Art Blocks",
+      "symbol": "BLOCKS"
+    },
+    {
+      "chainId": 1,
+      "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+      "name": "Ethereum Name Service (ENS)",
+      "symbol": "ENS"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+      "name": "Doodles",
+      "symbol": "DOODLE"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2acab3dea77832c09420663b0e1cb386031ba17b",
+      "name": "goblintown.wtf",
+      "symbol": "GOBLIN"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+      "name": "Foundation",
+      "symbol": "FND"
+    },
+    {
+      "chainId": 1,
+      "address": "0x79986af15539de2db9a5086382daeda917a9cf0c",
+      "name": "Decentraland Wearables",
+      "symbol": "WEAR"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa629bfcf15f2ed3d154d7fcbfd4d7f7463bafea",
+      "name": "Meebits",
+      "symbol": "MEEBITS"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a92f7381b9f03921564a437210bb9396471050c",
+      "name": "Cool Cats NFT",
+      "symbol": "COOL"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1258db6ac08eb0e625b75b371c023da478e94a9",
+      "name": "Lil Pudgys",
+      "symbol": "LILPENGU"
+    },
+    {
+      "chainId": 1,
+      "address": "0x999118ef9fae9f030a55577e60765269e24c0b98",
+      "name": "Checks – VV Edition",
+      "symbol": "CHECKS"
+    },
+    {
+      "chainId": 1,
+      "address": "0x69c4888ab7d19c0a9bf030e7c7cb3f37d5fc63fa",
+      "name": "Milady Maker",
+      "symbol": "MILADY"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ef149d94901f6c75876be0c42505c5462f91bea",
+      "name": "Otherdeed for Otherside",
+      "symbol": "OTHRD"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb",
+      "name": "VeeFriends",
+      "symbol": "VFRIEND"
+    },
+    {
+      "chainId": 1,
+      "address": "0x443c5116cdF663Eb387e72C688D276e702135C87",
+      "name": "World of Women",
+      "symbol": "WOW"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b255622e58a7fe7a2dbbfa82dfffa384a27e10d",
+      "name": "rektguy",
+      "symbol": "REKT"
+    }
+  ]
+}
